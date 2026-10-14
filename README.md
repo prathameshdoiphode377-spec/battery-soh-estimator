@@ -180,8 +180,8 @@ Open `notebooks/soh.ipynb` in VS Code or Jupyter Notebook, select the virtual en
 
 ## Author
 
-**Prathamesh Doiphode**  
-Chetan Khairnar 
-Ayan Manyar
-Rupesh Mokashi
+**Prathamesh Doiphode,**  
+Chetan Khairnar, 
+Ayan Manyar,
+Rupesh Mokashi.
 Bharati Vidyapeeth College of Engineering, Pune
