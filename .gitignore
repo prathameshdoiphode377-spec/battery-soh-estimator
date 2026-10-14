@@ -1,0 +1,11 @@
+data/
+raw/
+*.mat
+*.zip
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+.vscode/
+Thumbs.db
